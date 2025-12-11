@@ -1,0 +1,46 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# CSV files (attendance records)
+*.csv
+
+# Model files and downloads
+yolov8/
+runs/
+*.pt
+*.pth
+
+# Build files
+cmake-3.30.3-windows-x86_64/
+build/
+dist/
+*.egg-info/
+
+# Wheel files (large binary)
+*.whl
+
+# Temporary files
+temp_upload.jpg
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# DeepFace cache
+.deepface/
