@@ -8,8 +8,3 @@ The Face Recognition System is a real-time application designed to detect, recog
 2) Before installing the requirements, install dlib separately using `pip install "dlib_file_path"`
 3) Install the requirements using `pip install -r requirements.txt`
 
-# Results:
-
-![initial](https://github.com/anirudh-248/Computer-Vision-Projects/blob/f77f5db68cd59a8353dcdbbe08191f89a9fc1775/smart_attendance_system/results/Screenshot%202024-10-06%20193552.png)
-
-![csv_file](https://github.com/anirudh-248/Computer-Vision-Projects/blob/f77f5db68cd59a8353dcdbbe08191f89a9fc1775/smart_attendance_system/results/Screenshot%202024-10-06%20193721.png)
